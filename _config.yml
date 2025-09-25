@@ -14,10 +14,11 @@ author: Elvis Yoh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Elvis Yoh is an auditor with over ten years experience in public finance management. He specializes in planning, executing and drafting reports."
+  About Me: "About Me."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
